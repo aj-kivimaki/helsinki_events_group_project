@@ -10,6 +10,8 @@ This project aims to provide a convenient way to explore and discover events hap
 
 There were three contributors to this project. We planned and executed this project from the beginning to the end, while learning the necessary technologies along the way.
 
+This project uses the [Helsinki Events API](https://dev.hel.fi/apis/linkedevents).
+
 ## Features
 
 - Upcoming Events Showcase
