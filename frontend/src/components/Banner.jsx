@@ -1,11 +1,12 @@
 import "../styles/banner.css";
+import eventbg from "../assets/event-bg.jpg";
 
 const Banner = () => {
   return (
     <div className="banner">
       <div className="img-wrap">
         {/* <div className="fade"></div> */}
-        <img src="../event-bg.jpg" alt="audience" />
+        <img src={eventbg} alt="audience" />
       </div>
     </div>
   );
