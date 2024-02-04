@@ -28,6 +28,10 @@ This project uses the [Helsinki Events API](https://dev.hel.fi/apis/linkedevents
 
 ## Quick start
 
-[Check it out!](https://helsinki-events.onrender.com)
+You can run this project locally.
 
-Deployed with [Render](https://render.com/) (My instance will spin down with inactivity, which can delay requests by 50 seconds or more.)
+In terminal, run:
+
+```shell
+
+```
